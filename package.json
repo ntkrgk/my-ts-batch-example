@@ -1,0 +1,26 @@
+{
+  "name": "my-ts-batch-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntkrgk/my-ts-batch-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntkrgk/my-ts-batch-example/issues"
+  },
+  "homepage": "https://github.com/ntkrgk/my-ts-batch-example#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "devDependencies": {
+    "ts-node": "^10.6.0",
+    "typescript": "^4.6.2"
+  }
+}
